@@ -1,3 +1,6 @@
 [submodule "01-linux"]
 	path = 01-linux
 	url = git@github.com:aagargoura/01-linux.git
+[submodule "14-ansible/nodejs-app"]
+	path = 14-ansible/nodejs-app
+	url = git@github.com:aagargoura/nodejs-app.git
